@@ -1,0 +1,49 @@
+anchor.yakor
+boolean.bulev
+box model.blochnaya model
+browser.brauzer
+bug.bag
+build.sborka
+by default.po umolchaniyu
+click.shchelchok/shchelknut
+coding.napisaniye koda
+comment.kommentariy
+community.soobshchestvo
+compromised.vzlomannyy
+content.kontent
+control panel.panel upravleniya
+debug.otladka
+details.podrobnosti
+developer.razrabotchik
+elastic layout.verstka
+engine.dvizhok
+feature.vozmozhnost/funktsionalnaya osobznachok
+floating point.plavayushchaya zapyataya
+hardware.oborudovaniye
+icon.znachok
+implementation.realizatsiya
+laptop.noutbuk
+liquid.rezinovyy maket
+line.stroka
+list.spisok
+lock.blokirovat
+logo.logotip
+native support.vstroyennaya podderzhka
+paragraph.abzats
+performance.bystrodeystviye
+presentation language.yazyk predstavleniya
+profile.profil
+programmer.programmist
+registry.reyestr
+restart.perezapusk
+router.marshrutizator
+statement.vyrazheniye
+status bar.stroka sostoyaniya
+style property.stilevoye svoystvo
+tab (browser).vkladka
+tag.teg
+tag (sloud serv).metka
+typography.tipografika
+update.obnovleniye
+usability.yuzabiliti
+website.sayt
